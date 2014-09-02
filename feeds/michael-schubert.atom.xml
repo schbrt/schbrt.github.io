@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Michael Schubert</title><link href="/" rel="alternate"></link><link href="/feeds/michael-schubert.atom.xml" rel="self"></link><id>/</id><updated>2014-09-01T00:00:00-05:00</updated><entry><title>Test Post</title><link href="/test-post.html" rel="alternate"></link><updated>2014-09-01T00:00:00-05:00</updated><author><name>Michael Schubert</name></author><id>tag:,2014-09-01:test-post.html</id><summary type="html">&lt;h1&gt;TEST&lt;/h1&gt;
+&lt;p&gt;This is a test post.&lt;/p&gt;</summary><category term="test"></category></entry></feed>
