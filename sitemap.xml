@@ -4,56 +4,56 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://schbrt.me/index.html</loc>
-<lastmod>2014-09-06T01:02:47-00:00</lastmod>
+<loc>/index.html</loc>
+<lastmod>2014-09-06T01:10:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://schbrt.me/archives.html</loc>
-<lastmod>2014-09-06T01:02:47-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2014-09-06T01:10:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://schbrt.me/tags.html</loc>
-<lastmod>2014-09-06T01:02:47-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2014-09-06T01:10:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://schbrt.me/categories.html</loc>
-<lastmod>2014-09-06T01:02:47-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2014-09-06T01:10:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://schbrt.me/test-post.html</loc>
+<loc>/test-post.html</loc>
 <lastmod>2014-09-01T00:00:00-00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://schbrt.me/category/misc.html</loc>
+<loc>/category/misc.html</loc>
 <lastmod>2014-09-01T00:00:00:%s</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://schbrt.me/tag/test.html</loc>
+<loc>/tag/test.html</loc>
 <lastmod>2014-09-01T00:00:00:%s</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://schbrt.me/author/michael-schubert.html</loc>
+<loc>/author/michael-schubert.html</loc>
 <lastmod>2014-09-01T00:00:00:%s</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
